@@ -67,7 +67,7 @@ The project is deployed on **PHP-supported hosting platforms** such as **Infinit
 - **Python & Selenium WebDriver**  
 - **XAMPP (Local Server)**  
 - **Git & GitHub**  
-- **Render / InfinityFree (Deployment)**  
+- **Render (Deployment)**  
 
 ---
 
